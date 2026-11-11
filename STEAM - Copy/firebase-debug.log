@@ -1,0 +1,20 @@
+[debug] [2026-11-11T01:54:46.229Z] ----------------------------------------------------------------------
+[debug] [2026-11-11T01:54:46.231Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\USER\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2026-11-11T01:54:46.232Z] CLI Version:   15.35.0
+[debug] [2026-11-11T01:54:46.232Z] Platform:      win32
+[debug] [2026-11-11T01:54:46.232Z] Node Version:  v26.13.0
+[debug] [2026-11-11T01:54:46.232Z] Detected Agent: unknown
+[debug] [2026-11-11T01:54:46.232Z] Time:          Wed Nov 11 2026 08:54:46 GMT+0700 (Western Indonesia Time)
+[debug] [2026-11-11T01:54:46.232Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\USER\OneDrive - 明 and Daughters\Desktop\STEAM - Copy
+
